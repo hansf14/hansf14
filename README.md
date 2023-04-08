@@ -1,7 +1,7 @@
 # Profile (hansf14 / hahnsb0579)
 
 <p align="center">
-  <img src="welcome-header.svg?sanitize=false" alt="welcome-header" />
+  <img src="welcome-header.svg?sanitize=false" alt="welcome-header" width="100%" />
 </p>
 
 ### Techs
