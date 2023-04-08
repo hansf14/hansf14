@@ -5,43 +5,47 @@
       <h1 class="name-text">hansf14</h1>
       <h2 class="welcome-text">Welcome</h2>
     </div>
+    
+    <svg  class="welcome-header-inner" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 250"
+    preserveAspectRatio="none" shape-rendering="auto">
+    <defs>
+      <path id="wave" d="
+        M 0,170
+        c 300,150 300,-150 600,0
+        s 300,-150 600,0
+        s 300,-150 600,0
+        V 350
+        H 0
+        z
+        " />
+    </defs>
+    <g class="parallax">
+      <use xlink:href="#wave" x="0" y="-20" fill="rgba(46, 140, 213, 0.4)"></use>
+      <use xlink:href="#wave" x="0" y="-5" fill="rgba(46, 140, 213, 0.3)"></use>
+      <use xlink:href="#wave" x="0" y="10" fill="rgba(46, 140, 213, 0.1)"></use>
+      <use xlink:href="#wave" x="0" y="25" fill="rgba(46, 140, 213, 0.2)"></use>
+    </g>
+    </svg>
   </foreignObject>
-
-  <defs>
-    <path id="wave" d="
-      M 0,170
-      c 300,150 300,-150 600,0
-      s 300,-150 600,0
-      s 300,-150 600,0
-      V 350
-      H 0
-      z
-      " />
-  </defs>
-  <g class="parallax">
-    <use xlink:href="#wave" x="0" y="-20" fill="rgba(46, 140, 213, 0.4)" />
-    <use xlink:href="#wave" x="0" y="-5" fill="rgba(46, 140, 213, 0.3)" />
-    <use xlink:href="#wave" x="0" y="10" fill="rgba(46, 140, 213, 0.1)" />
-    <use xlink:href="#wave" x="0" y="25" fill="rgba(46, 140, 213, 0.2)" />
-  </g>
   <style>
-    img[src*="#welcome-header.svg"] {
-      height: unset;
-      aspect-ratio: 1000/250;
-    }
-
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
 
-    .welcome-header {
+    .welcome-header,
+    .welcome-header-inner {
       width: 100%;
       height: unset;
       aspect-ratio: 1000/250;
       max-width: 1000px;
       border-radius: 20px;
+      position: relative;
+    }
+
+    .welcome-header-inner {
+      position: absolute;
     }
 
     .content {
