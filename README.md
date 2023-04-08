@@ -13,6 +13,20 @@
     <source media="(min-width: 1012px)" srcset="welcome-header.svg" width="100%" height="153px">
     <!-- screen (910px ~ 1011px) - w:641 ~ 540 => 590.5 => h:147.625  -->
     <source media="(min-width: 910px)" srcset="welcome-header.svg" width="100%" height="148px">
+    <!-- screen (810px) - w:440 ~ 539 => 489.5 => h:127.5  -->
+    <source media="(min-width: 810px)" srcset="welcome-header.svg" width="100%" height="128px">
+    <!-- screen (768px ~ 809px) - w:398 ~ 439 => 418.5 => h:104.625  -->
+    <source media="(min-width: 768px)" srcset="welcome-header.svg" width="100%" height="105px">
+    <!-- screen (667px ~ 767px) - w:585 ~ 685 => 635 => h:158.75  -->
+    <source media="(min-width: 667px)" srcset="welcome-header.svg" width="100%" height="159px">
+    <!-- screen (567px) - w:485 ~ 584 => 534.5 => h:133.625  -->
+    <source media="(min-width: 567px)" srcset="welcome-header.svg" width="100%" height="134px">
+    <!-- screen (467px) - w:385 ~ 484 => 434.5 => h:108.625  -->
+    <source media="(min-width: 467px)" srcset="welcome-header.svg" width="100%" height="109px">
+    <!-- screen (367px) - w:285 ~ 384 => 334.5 => h:83.625  -->
+    <source media="(min-width: 367px)" srcset="welcome-header.svg" width="100%" height="84px">
+    <!-- screen (320px ~ 366px) - w:238 ~ 284 => 261 => h:65.25  -->
+    <source media="(max-width: 366px)" srcset="welcome-header.svg" width="100%" height="66px">
     <img src="welcome-header.svg" width="100%">
   </picture>
 </p>
