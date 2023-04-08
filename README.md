@@ -1,8 +1,17 @@
 # Profile (hansf14 / hahnsb0579)
 
 <p align="center">
-  <img src="welcome-header.svg?sanitize=false" alt="welcome-header" width="100%" />
+  <picture>
+    <source media="(max-width: 500px)" srcset="welcome-header.svg" width="100%" height="100px">
+    <source media="(min-width: 501px)" srcset="welcome-header.svg" width="100%" height="188px">
+    <img src="welcome-header.svg" width="100%">
+  </picture>
 </p>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture> -->
 
 ### Techs
 
