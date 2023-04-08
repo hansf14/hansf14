@@ -25,6 +25,11 @@
     <use xlink:href="#wave" x="0" y="25" fill="rgba(46, 140, 213, 0.2)" />
   </g>
   <style>
+    img[src*="#welcome-header.svg"] {
+      height: unset;
+      aspect-ratio: 1000/250;
+    }
+
     * {
       margin: 0;
       padding: 0;
