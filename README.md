@@ -41,6 +41,7 @@
 #### &emsp;**\* Languages**
 
 <div>
+  <img src="https://img.shields.io/badge/VisualBasic-A8B9CC?style=flat&logo=visualbasic&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoWidth=25" height="25px"/>
