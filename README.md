@@ -4,27 +4,27 @@
 <p align="center">
   <picture>
     <!-- screen (1280px ~ ) - w:846 => h:211.5  -->
-    <source media="(min-device-width: 1280px)" srcset="welcome-header.svg" width="100%" height="212px">
+    <source media="(min-width: 1280px)" srcset="welcome-header.svg" width="100%" height="212px">
     <!-- screen (1180px) - w:746 => h:186.5  -->
-    <source media="(min-device-width: 1180px)" srcset="welcome-header.svg" width="100%" height="187px">
+    <source media="(min-width: 1180px)" srcset="welcome-header.svg" width="100%" height="187px">
     <!-- screen (1080px) - w:646 => h:161.5  -->
-    <source media="(min-device-width: 1080px)" srcset="welcome-header.svg" width="100%" height="162px">
+    <source media="(min-width: 1080px)" srcset="welcome-header.svg" width="100%" height="162px">
     <!-- screen (980px) - w:610 => h:152.5  -->
-    <source media="(min-device-width: 980px)" srcset="welcome-header.svg" width="100%" height="153px">
+    <source media="(min-width: 980px)" srcset="welcome-header.svg" width="100%" height="153px">
     <!-- screen (880px) - w:510 => h:127.5  -->
-    <source media="(min-device-width: 880px)" srcset="welcome-header.svg" width="100%" height="128px">
+    <source media="(min-width: 880px)" srcset="welcome-header.svg" width="100%" height="128px">
     <!-- screen (768px ~ 879px) - w:398 => h:99.5  -->
-    <source media="(min-device-width: 768px)" srcset="welcome-header.svg" width="100%" height="100px">
+    <source media="(min-width: 768px)" srcset="welcome-header.svg" width="100%" height="100px">
     <!-- screen (667px ~ 767px) - w:585 => h:146.25  -->
-    <source media="(min-device-width: 667px)" srcset="welcome-header.svg" width="100%" height="147px">
+    <source media="(min-width: 667px)" srcset="welcome-header.svg" width="100%" height="147px">
     <!-- screen (567px) - w:485 => h:121.25  -->
-    <source media="(min-device-width: 567px)" srcset="welcome-header.svg" width="100%" height="122px">
+    <source media="(min-width: 567px)" srcset="welcome-header.svg" width="100%" height="122px">
     <!-- screen (467px) - w:385 => h:96.25  -->
-    <source media="(min-device-width: 467px)" srcset="welcome-header.svg" width="100%" height="97px">
+    <source media="(min-width: 467px)" srcset="welcome-header.svg" width="100%" height="97px">
     <!-- screen (367px) - w:285 => h:71.25  -->
-    <source media="(min-device-width: 367px)" srcset="welcome-header.svg" width="100%" height="72px">
+    <source media="(min-width: 367px)" srcset="welcome-header.svg" width="100%" height="72px">
     <!-- screen (320px ~ 366px) - w:238 => h:59.5  -->
-    <source media="(max-device-width: 379px)" srcset="welcome-header.svg" width="100%" height="60px">
+    <source media="(max-width: 366px)" srcset="welcome-header.svg" width="100%" height="60px">
     <img src="welcome-header.svg" width="100%">
   </picture>
 </p>
