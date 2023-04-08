@@ -8,7 +8,7 @@
 
 #### &emsp;Languages
 
-<p>
+<div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoWidth=25" height="25px"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&logoWidth=25" height="25px"/>
-</p>
+</div>
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&logoWidth=25" height="25px"/>
