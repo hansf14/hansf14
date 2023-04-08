@@ -32,8 +32,8 @@
     }
 
     .welcome-header {
-      bottom: 0;
       width: 100%;
+      height: unset;
       aspect-ratio: 1000/250;
       max-width: 1000px;
       border-radius: 20px;
