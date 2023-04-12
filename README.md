@@ -36,9 +36,9 @@
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> -->
 
-### Techs
+### 1. Techs
 
-#### &emsp;**\* Languages**
+#### &emsp;\* Languages
 
 <div>
   <img src="https://img.shields.io/badge/VisualBasic-A8B9CC?style=flat&logo=visualbasic&logoColor=white&logoWidth=25" height="25px"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Verilog-black?style=flat&logo=verilog&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;**\* APIs & Libraries & Frameworks**
+#### &emsp;\* APIs & Libraries & Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=25" height="25px"/>
@@ -112,7 +112,7 @@
   <img src="https://img.shields.io/badge/gRPC-02569B?style=flat&logo=grpc&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;**\* DataBase**
+#### &emsp;\* DataBase
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white&logoWidth=25" height="25px"/>
@@ -120,7 +120,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;**\* OS**
+#### &emsp;\* OS
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=25" height="25px"/>
@@ -129,7 +129,7 @@
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;**\* Design**
+#### &emsp;\* Design
 
 <div>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white&logoWidth=25" height="25px"/>
@@ -139,20 +139,72 @@
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;**\* TODO**
+#### &emsp;\* TODO
 
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
+<br/>
 
-#### &emsp;**\* Github**
+### 2. Currently Working at...
 
-<br />
+<strong>
+  <div>
+    <p>
+      &emsp;(1) 대한법무법인<br />
+      &emsp;&emsp;(DaeHan Law Firm)<br />
+      &emsp;&emsp;- 서울특별시 서초구 동작대로 36 대광빌딩3층
+    </p>
+  </div>
+  <div>
+    <p>
+      &emsp;(2) (주)투엘바이오<br />
+      &emsp;&emsp;(2L Bio Co., Ltd)<br />
+      &emsp;&emsp;- 인천광역시 서구 석남동 223-38번지 가동 101호<br />
+      &emsp;&emsp;- <a href="http://2lbio.co.kr/">http://2lbio.co.kr/</a><br/>
+      &emsp;&emsp;- <a href="http://2lbio.com/">http://2lbio.com/</a>
+    </p>
+  </div>
+  <div>
+    <p>
+      &emsp;(3) 엘앤에이치글로벌<br/>
+      &emsp;&emsp;(LNH Global Co., Ltd)<br/>
+      &emsp;&emsp;- <a href="https://lnhglobal.co.kr/">https://lnhglobal.co.kr/</a>
+    </p>
+  </div>
+  <div>
+    <p>
+      &emsp;(4) 브로딩커뮤니케이션즈<br/>
+      &emsp;&emsp;(Brawding Communications Co., Ltd)<br/>
+      &emsp;&emsp;- <a href="http://brawding.co.kr/">http://brawding.co.kr/</a>
+    </p>
+  </div>
+  <br/>
+  &emsp;... As a Developer
+</strong>
 
+<br/>
+
+### 3. Developed websites
+
+* **[http://2lbio.co.kr/](http://2lbio.co.kr/)**
+* **[https://lnhglobal.co.kr/](https://lnhglobal.co.kr/)**
+* **[http://brawding.co.kr/](http://brawding.co.kr/)**
+
+### 4. Github
+
+<h5 align="center">Most Used Languages</h5>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansf14" alt="Most Used Languages" />
+</p>
+<h5 align="center">
+  Weekly Time Spent in Work/Coding<br/>
+  (Calculated by WakaTime)
+</h5>
+<h6 align="center"></h6>
+<p align="center">
   <img height="285px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hansf14" alt="hansf14's WakaTime Stats" />
 </p>
 
