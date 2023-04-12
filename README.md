@@ -178,7 +178,7 @@
     <p>
       &emsp;(4) 브로딩커뮤니케이션즈<br/>
       &emsp;&emsp;(Brawding Communications Co., Ltd)<br/>
-      &emsp;&emsp;- <a href="http://brawding.co.kr/">http://brawding.co.kr/</a>
+      &emsp;&emsp;- <a href="https://brawding.co.kr/">https://brawding.co.kr/</a>
     </p>
   </div>
   <br/>
@@ -189,9 +189,9 @@
 
 ### 3. Developed websites
 
-* **[http://2lbio.co.kr/](http://2lbio.co.kr/)**
+* **[https://2lbio.co.kr/](https://2lbio.co.kr/)**
 * **[https://lnhglobal.co.kr/](https://lnhglobal.co.kr/)**
-* **[http://brawding.co.kr/](http://brawding.co.kr/)**
+* **[https://brawding.co.kr/](https://brawding.co.kr/)**
 
 ### 4. Github
 
