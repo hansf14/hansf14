@@ -187,7 +187,7 @@
 
 <br/>
 
-### 3. Developed websites
+### 3. Developed Websites
 
 * **[https://2lbio.co.kr/](https://2lbio.co.kr/)**
 * **[https://lnhglobal.co.kr/](https://lnhglobal.co.kr/)**
@@ -199,14 +199,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansf14" alt="Most Used Languages" />
 </p>
-<h5 align="center">
+<!-- <h5 align="center">
   Weekly Time Spent in Work/Coding<br/>
   (Calculated by WakaTime)
 </h5>
-<h6 align="center"></h6>
 <p align="center">
   <img height="285px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hansf14" alt="hansf14's WakaTime Stats" />
-</p>
+</p> -->
 
 <p>
 <strong>
