@@ -36,6 +36,14 @@
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> -->
 
+<!--
+https://simpleicons.org/
+https://github.com/anuraghazra/github-readme-stats
+https://velog.io/@colorful-stars/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05
+https://css-tricks.com/custom-styles-in-github-readmes/
+-->
+
 ### 1. Techs
 
 #### &emsp;\* Languages
@@ -52,6 +60,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=#A86454&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&logoWidth=25" height="25px"/>
@@ -106,6 +115,7 @@
   <img src="https://img.shields.io/badge/Slate.js-F9A03C?style=flat&logo=slatedotjs&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=riverpod&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
@@ -113,6 +123,7 @@
 </div>
 
 #### &emsp;\* DataBase
+
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white&logoWidth=25" height="25px"/>
@@ -124,9 +135,10 @@
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
 #### &emsp;\* Design
@@ -189,9 +201,9 @@
 
 ### 3. Developed Websites
 
-* **[https://2lbio.co.kr/](https://2lbio.co.kr/)**
-* **[https://lnhglobal.co.kr/](https://lnhglobal.co.kr/)**
-* **[https://brawding.co.kr/](https://brawding.co.kr/)**
+- **[https://2lbio.co.kr/](https://2lbio.co.kr/)**
+- **[https://lnhglobal.co.kr/](https://lnhglobal.co.kr/)**
+- **[https://brawding.co.kr/](https://brawding.co.kr/)**
 
 ### 4. Github
 
