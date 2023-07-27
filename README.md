@@ -122,6 +122,9 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 <div>
   <img src="https://img.shields.io/badge/gRPC-02569B?style=flat&logo=grpc&logoColor=white&logoWidth=25" height="25px"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white&logoWidth=25" height="25px"/>
+</div>
 
 #### &emsp;\* DataBase
 
