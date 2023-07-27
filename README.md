@@ -103,6 +103,7 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&logoWidth=25" height="25px"/>
@@ -129,6 +130,7 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
 #### &emsp;\* OS
@@ -154,7 +156,6 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 #### &emsp;\* TODO
 
 <div>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
