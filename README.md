@@ -90,7 +90,6 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=#150458&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Requests-013243?style=flat&logo=requests&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-013243?style=flat&logo=beautifulsoup&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Scrapy-43B02A?style=flat&logo=scrapy&logoColor=white&logoWidth=25" height="25px"/>
@@ -102,6 +101,7 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
 </div>
@@ -171,7 +171,8 @@ https://css-tricks.com/custom-styles-in-github-readmes/
     <p>
       &emsp;(1) 대한법무법인<br />
       &emsp;&emsp;(DaeHan Law Firm)<br />
-      &emsp;&emsp;- 서울특별시 서초구 동작대로 36 대광빌딩3층
+      &emsp;&emsp;- 서울특별시 동작구 상도로 26-1 (대방동 402-30)<br />
+      &emsp;&emsp;&ensp;대경빌딩 4층
     </p>
   </div>
   <div>
@@ -198,7 +199,6 @@ https://css-tricks.com/custom-styles-in-github-readmes/
     </p>
   </div>
   <br/>
-  &emsp;... As a Developer
 </strong>
 
 <br/>
