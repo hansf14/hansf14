@@ -173,6 +173,8 @@ https://css-tricks.com/custom-styles-in-github-readmes/
       &emsp;&emsp;(DaeHan Law Firm)<br />
       &emsp;&emsp;- 서울특별시 동작구 상도로 26-1 (대방동 402-30)<br />
       &emsp;&emsp;&ensp;대경빌딩 4층
+      &emsp;&emsp;- <a href="https://dhnotary.com">https://dhnotary.com</a><br/>
+      &emsp;&emsp;&ensp;(Currently under development)
     </p>
   </div>
   <div>
@@ -180,22 +182,22 @@ https://css-tricks.com/custom-styles-in-github-readmes/
       &emsp;(2) (주)투엘바이오<br />
       &emsp;&emsp;(2L Bio Co., Ltd)<br />
       &emsp;&emsp;- 인천광역시 서구 석남동 223-38번지 가동 101호<br />
-      &emsp;&emsp;- <a href="https://2lbio.co.kr/">https://2lbio.co.kr/</a><br/>
-      &emsp;&emsp;- <a href="https://2lbio.com/">https://2lbio.com/</a>
+      &emsp;&emsp;- <a href="https://2lbio.co.kr">https://2lbio.co.kr</a><br/>
+      &emsp;&emsp;- <a href="https://2lbio.com">https://2lbio.com</a>
     </p>
   </div>
   <div>
     <p>
       &emsp;(3) 엘앤에이치글로벌<br/>
       &emsp;&emsp;(LNH Global Co., Ltd)<br/>
-      &emsp;&emsp;- <a href="https://lnhglobal.co.kr/">https://lnhglobal.co.kr/</a>
+      &emsp;&emsp;- <a href="https://lnhglobal.co.kr">https://lnhglobal.co.kr</a>
     </p>
   </div>
   <div>
     <p>
       &emsp;(4) 브로딩커뮤니케이션즈<br/>
       &emsp;&emsp;(Brawding Communications Co., Ltd)<br/>
-      &emsp;&emsp;- <a href="https://brawding.co.kr/">https://brawding.co.kr/</a>
+      &emsp;&emsp;- <a href="https://brawding.co.kr">https://brawding.co.kr</a>
     </p>
   </div>
   <br/>
@@ -204,10 +206,11 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 <br/>
 
 <!-- ### 3. Developed Websites
-
-- **[https://2lbio.co.kr/](https://2lbio.co.kr/)**
-- **[https://lnhglobal.co.kr/](https://lnhglobal.co.kr/)**
-- **[https://brawding.co.kr/](https://brawding.co.kr/)**
+- **[https://dhnotary.com](https://dhnotary.com)**
+- **[https://2lbio.co.kr](https://2lbio.co.kr)**
+- **[https://lnhglobal.co.kr](https://lnhglobal.co.kr)**
+- **[https://brawding.co.kr](https://brawding.co.kr)**
+- **[https://hwapyung.co.kr](https://hwapyung.co.kr)**
 
 ### 4. Github -->
 
