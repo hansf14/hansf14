@@ -172,7 +172,7 @@ https://css-tricks.com/custom-styles-in-github-readmes/
       &emsp;(1) 대한법무법인<br />
       &emsp;&emsp;(DaeHan Law Firm)<br />
       &emsp;&emsp;- 서울특별시 동작구 상도로 26-1 (대방동 402-30)<br />
-      &emsp;&emsp;&ensp;대경빌딩 4층
+      &emsp;&emsp;&ensp;대경빌딩 4층<br />
       &emsp;&emsp;- <a href="https://dhnotary.com">https://dhnotary.com</a><br/>
       &emsp;&emsp;&ensp;(Currently under development)
     </p>
