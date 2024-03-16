@@ -182,8 +182,11 @@ https://css-tricks.com/custom-styles-in-github-readmes/
       &emsp;(2) (주)투엘바이오<br />
       &emsp;&emsp;(2L Bio Co., Ltd)<br />
       &emsp;&emsp;- 인천광역시 서구 석남동 223-38번지 가동 101호<br />
+      &emsp;&emsp;- <a href="https://2lbio.com">https://2lbio.com</a><br/>
       &emsp;&emsp;- <a href="https://2lbio.co.kr">https://2lbio.co.kr</a><br/>
-      &emsp;&emsp;- <a href="https://2lbio.com">https://2lbio.com</a>
+      &emsp;&emsp;- <a href="https://2lbio.net">https://2lbio.net</a><br/>
+      &emsp;&emsp;- <a href="http://152.42.163.165">http://152.42.163.165</a><br/>
+      &emsp;&emsp;&ensp;(Currently under development)
     </p>
   </div>
   <div>
