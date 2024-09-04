@@ -134,6 +134,7 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/ApexCharts.js-008FFB?style=flat&logo=apexchartsdotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Slate.js-F9A03C?style=flat&logo=slatedotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&logoWidth=25" height="25px"/>
