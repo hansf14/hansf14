@@ -46,11 +46,11 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 
 ### 1. Techs
 
-#### &emsp;\* Languages
+#### \* Languages
 
 <div>
   <img src="https://img.shields.io/badge/VisualBasic-A8B9CC?style=flat&logo=visualbasic&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoWidth=25" height="25px"/>
 </div>
@@ -62,7 +62,8 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 </div>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=#A86454&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=25" height="25px"/>
@@ -85,6 +86,8 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/PowerShell-00599C?style=flat&logo=powershell&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
+<hr>
+
 #### &emsp;\* APIs & Libraries & Frameworks
 
 <div>
@@ -100,7 +103,7 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 </div>
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=#150458&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/BeautifulSoup-013243?style=flat&logo=beautifulsoup&logoColor=white&logoWidth=25" height="25px"/>
@@ -116,9 +119,13 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
@@ -138,6 +145,9 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Slate.js-F9A03C?style=flat&logo=slatedotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=riverpod&logoColor=white&logoWidth=25" height="25px"/>
@@ -177,16 +187,6 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/AlpineLinux-0D597F?style=flat&logo=alpinelinux&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white&logoWidth=25" height="25px"/>
-</div>
-
-#### &emsp;\* Design
-
-<div>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white&logoWidth=25" height="25px"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
 #### &emsp;\* TODO
@@ -278,9 +278,9 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <span>Views Since: 2023-04-08</span>
 </strong>
 </p>
-<p>&emsp;&emsp;
+<!-- <p>&emsp;&emsp;
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhansf14&count_bg=%232EA9DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-</p>
+</p> -->
 
 <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/> -->
