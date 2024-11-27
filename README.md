@@ -86,7 +86,9 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/PowerShell-00599C?style=flat&logo=powershell&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-<hr style="border: 0; height: 1px; background: #ccc;">
+<div id="toc">
+  <hr style="border: 0; height: 1px; background: #ccc;">
+</div>
 
 #### &emsp;\* APIs & Libraries & Frameworks
 
