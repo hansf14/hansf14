@@ -86,9 +86,21 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/PowerShell-00599C?style=flat&logo=powershell&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-<div id="toc">
-  <hr style="border: 0; height: 1px; background: #ccc;">
-</div>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .divider {
+          border: 0;
+          height: 1px;
+          background: #ccc;
+        }
+      </style>
+
+      <hr class="divider">
+    </div>
+  </foreignObject>
+</svg>
 
 #### &emsp;\* APIs & Libraries & Frameworks
 
