@@ -46,7 +46,12 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 
 ## 1. Techs
 
-#### \* Languages
+- **For looking back what I've learned and experienced through various projects during at work and when I was a student at school, I list out the techs that I used at the past at least several times or have still been currently using till now.**
+- **For reviewing my past (retrospection), reflection, and self-satisfaction**
+
+<img src="divider.svg" width="100%">
+
+### \* Languages
 
 <div>
   <img src="https://img.shields.io/badge/VisualBasic-A8B9CC?style=flat&logo=visualbasic&logoColor=white&logoWidth=25" height="25px"/>
@@ -85,10 +90,52 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/ShellScript-4EAA25?style=flat&logo=gnubash&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/PowerShell-00599C?style=flat&logo=powershell&logoColor=white&logoWidth=25" height="25px"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+
+#### \* Main / Advanced at...
+
+<div>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/ShellScript-4EAA25?style=flat&logo=gnubash&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/PowerShell-00599C?style=flat&logo=powershell&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Advanced]</b>
+</div>
 
 <img src="divider.svg" width="100%">
 
-#### &emsp;\* APIs & Libraries & Frameworks
+### \* API / Library / Framework
 
 <div>
   <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=25" height="25px"/>
@@ -115,25 +162,22 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 </div>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=swr&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=antdesign&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white&logoWidth=25" height="25px"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white&logoWidth=25" height="25px"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=25" height="25px"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/WebSocket-F9A03C?style=flat&logo=websocket&logoColor=white&logoWidth=25" height="25px"/>
@@ -145,6 +189,25 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Slate.js-F9A03C?style=flat&logo=slatedotjs&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Playwright-40B5A4?style=flat&logo=playwright&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/gulp-CF4647?style=flat&logo=gulp&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&logoWidth=25" height="25px"/>
@@ -159,8 +222,116 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 <div>
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white&logoWidth=25" height="25px"/>
 </div>
+<div>
+  <img src="https://img.shields.io/badge/TypeScript Compiler API-3178C6?style=flat&logo=typescript&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/ts--morph-3178C6?style=flat&logo=typescript&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Babel Plugin API-F9DC3E?style=flat&logo=babel&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Vite Plugin API-646CFF?style=flat&logo=vite&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/VSCode Extension API-0078D6?style=flat&logo=vscode&logoColor=white&logoWidth=25" height="25px"/>
+</div>
 
-#### &emsp;\* DataBase
+#### \* Main / Advanced at...
+
+<div>
+  <img src="https://img.shields.io/badge/C++ STL-00599C?style=flat&logo=cplusplusstl&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/BeautifulSoup-013243?style=flat&logo=beautifulsoup&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Scrapy-43B02A?style=flat&logo=scrapy&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=antdesign&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Slate.js-F9A03C?style=flat&logo=slatedotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Playwright-40B5A4?style=flat&logo=playwright&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+
+<img src="divider.svg" width="100%">
+
+### \* DataBase
 
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=25" height="25px"/>
@@ -176,7 +347,32 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;\* OS
+#### \* Main / Advanced at...
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+
+<img src="divider.svg" width="100%">
+
+### \* OS
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=25" height="25px"/>
@@ -189,15 +385,209 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 
-#### &emsp;\* TODO
+#### \* Main / Advanced at...
 
-<!-- <div>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=25" height="25px"/>
-</div> -->
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main & Advanced]</b>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Alpine Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
 
+<img src="divider.svg" width="100%">
+
+### \* Misc.
+
+- **IDE**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Visual Studio-602E8E?style=flat&logo=visualstudio&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/VSCode-4BABEB?style=flat&logo=vscode&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white&logoWidth=25" height="25px"/>
+</div>
 <br/>
 
-### 2. Currently Working at...
+- **VCS**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<br/>
+
+- **Compiler / Transpiler / Bundler / Build Tool**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/gcc-000000?style=flat&logo=gcc&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/g%2B%2B-000000?style=flat&logo=gplusplus&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=apachemaven&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/rollup.js-EC4A3F?style=flat&logo=rollupdotjs&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/esbuild-FFCF00?style=flat&logo=esbuild&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/tsup-F7C500?style=flat&logo=tsup&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/SWC-F8C457?style=flat&logo=swc&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Bazel-43A047?style=flat&logo=bazel&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<br/>
+
+- **Linter / Formatter**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<br/>
+
+- **Package Manager / Dependency Manager**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Yarn PnP-2C8EBB?style=flat&logo=yarn&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Pip-3776AB?style=flat&logo=pip&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<br/>
+
+- **Deployment, Process Management, Containerization**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/gh--pages-222222?style=flat&logo=githubpages&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<br/>
+
+- **Etc.**
+
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/ts--node-3178C6?style=flat&logo=tsnode&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat&logo=createreactapp&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Protocol Buffers-000000?style=flat&logo=protobuf&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Verdaccio-4B5E40?style=flat&logo=verdaccio&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white&logoWidth=25" height="25px"/>
+  <b>[Main]</b>
+</div>
+<div>
+  &emsp;&emsp;<img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+
+<img src="divider.svg" width="100%">
+
+### \* To Do / Considering to learn
+
+<div>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white&logoWidth=25" height="25px"/>
+  <b>or/and</b>
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/RStudio IDE-75AADB?style=flat&logo=rstudioide&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+
+## 2. Currently Working at...
 
 <strong>
   <div>
@@ -235,21 +625,9 @@ https://css-tricks.com/custom-styles-in-github-readmes/
       &emsp;&emsp;- <a href="https://brawding.co.kr">https://brawding.co.kr</a>
     </p>
   </div>
-  <br/>
 </strong>
 
-<br/>
-
-<!-- ### 3. Developed Websites
-- **[https://dhnotary.com](https://dhnotary.com)**
-- **[https://2lbio.co.kr](https://2lbio.co.kr)**
-- **[https://lnhglobal.co.kr](https://lnhglobal.co.kr)**
-- **[https://brawding.co.kr](https://brawding.co.kr)**
-- **[https://hwapyung.co.kr](https://hwapyung.co.kr)**
-
-### 4. Github -->
-
-### 3. Github
+## 3. Github
 
 <!-- <h5 align="center">Most Used Languages</h5>
 <p align="center">
@@ -278,9 +656,9 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <span>Views Since: 2023-04-08</span>
 </strong>
 </p>
-<!-- <p>&emsp;&emsp;
+<p>&emsp;&emsp;
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhansf14&count_bg=%232EA9DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-</p> -->
+</p>
 
 <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/> -->
@@ -301,4 +679,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!-- ### 3. Developed Websites
+- **[https://dhnotary.com](https://dhnotary.com)**
+- **[https://2lbio.co.kr](https://2lbio.co.kr)**
+- **[https://lnhglobal.co.kr](https://lnhglobal.co.kr)**
+- **[https://brawding.co.kr](https://brawding.co.kr)**
+- **[https://hwapyung.co.kr](https://hwapyung.co.kr)**
 -->
