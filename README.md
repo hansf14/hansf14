@@ -208,6 +208,10 @@ https://css-tricks.com/custom-styles-in-github-readmes/
   <img src="https://img.shields.io/badge/Jotai-3578E5?style=flat&logo=jotai&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat&logo=framer&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/WebSocket-F9A03C?style=flat&logo=websocket&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white&logoWidth=25" height="25px"/>
@@ -257,6 +261,10 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 </div>
 <div>
   <img src="https://img.shields.io/badge/Jotai-3578E5?style=flat&logo=jotai&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat&logo=framer&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/WebSocket-F9A03C?style=flat&logo=websocket&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white&logoWidth=25" height="25px"/>
@@ -484,10 +492,14 @@ https://css-tricks.com/custom-styles-in-github-readmes/
 <div>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&logoWidth=25" height="25px"/>
   <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white&logoWidth=25" height="25px"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=25" height="25px"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&logoWidth=25" height="25px"/>
+  <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat&logo=argo&logoColor=white&logoWidth=25" height="25px"/>
 </div>
 <!-- <div>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=25" height="25px"/>
